@@ -1,7 +1,7 @@
 ////////////////////////////////
 /**Author   - Keshav Sahu
 *  Version - 1.0
-*  This is made using SFML2 library and compiled using MinGW
+*  This is made using SFML2 library
 *//////////////////////////////
 
 #include <SFML\Graphics.hpp>
